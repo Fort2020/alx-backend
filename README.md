@@ -3,9 +3,6 @@
 # Waht We Need To Know About BACKEND DEVELOPMENT
 
 
-![backend-is](https://github.com/Fort2020/alx-backend/assets/114498685/f0a2a84a-dfba-4ccc-a8b8-6270b5e6a9cc)
-
-
 ## SERVER MANAGEMENT
 Backend developers configure and manage the servers where the application runs. This includes setting up web servers like Apache or Nginx and ensuring they are properly configured and optimized for performance and security.
 
